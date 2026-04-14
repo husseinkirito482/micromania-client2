@@ -93,7 +93,7 @@ export default function GamesPage() {
             </Link>
 
             <h1 className="pointer-events-none absolute left-1/2 top-1/2 z-0 -translate-x-1/2 -translate-y-1/2 whitespace-nowrap text-center font-[family-name:var(--font-orbitron)] text-base font-bold uppercase tracking-[0.2em] text-white">
-              SILVESTRE TOP UP
+               TOP UP
             </h1>
 
             <div className="h-11 w-11 shrink-0" aria-hidden="true" />
@@ -162,7 +162,7 @@ export default function GamesPage() {
             </Link>
 
             <h1 className="pointer-events-none absolute left-1/2 top-1/2 z-0 -translate-x-1/2 -translate-y-1/2 whitespace-nowrap text-center font-[family-name:var(--font-orbitron)] text-[11px] font-bold uppercase tracking-[0.18em] text-white sm:text-base sm:tracking-[0.2em]">
-              SILVESTRE TOP UP
+              TOP UP
             </h1>
 
             <div className="h-8 w-8 shrink-0 sm:h-11 sm:w-11" aria-hidden="true" />
